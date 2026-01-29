@@ -1,7 +1,7 @@
 # Hi there 👋
 
 **RAHA MOHEBI**  
-**Junior Front-End Developer | ReactJS | Next.js | JavaScript | HTML & CSS | TailwindCSS**
+**Front-End Developer | ReactJS | Next.js |**
 
 ---
 
@@ -31,7 +31,7 @@ My interest in design, creativity, and art helps me bring a thoughtful and balan
 
 ## 💻 Experience
 
-### JUNIOR FRONT-END DEVELOPER AT PAFCO  
+### FRONT-END DEVELOPER AT PAFCO  
 **July 2025 - jan 2026**  
 - Designed and implemented UI for an AI-powered chatbot integrated with LMS and Moodle using React.js.  
 - Optimized corporate website for performance, accessibility, and responsiveness.  
@@ -45,7 +45,7 @@ My interest in design, creativity, and art helps me bring a thoughtful and balan
 
 ---
 
-### JUNIOR FRONT-END DEVELOPER AT DARAMET.COM  
+### FRONT-END DEVELOPER AT DARAMET.COM  
 **June 2025 - Dec 2026**  
 - Built front-end for a large-scale financial platform using React, Tailwind CSS, and Material UI.  
 - Developed modules: ticketing system, fund withdrawal, bank account management, authentication forms.  
