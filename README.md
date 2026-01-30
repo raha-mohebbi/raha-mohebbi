@@ -3,7 +3,7 @@
 I'M RAHA MOHEBI
 
 **Front-End Developer | ReactJS | Next.js |**
-**Computer Engineering student => Bachelor’s Degree **
+
 ---
 
 📍 Tehran, Iran  
@@ -22,6 +22,8 @@ Front-End Developer with hands-on experience in React.js and Next.js.
 Skilled in building scalable, responsive, and user-focused interfaces.  
 Experienced in working with AI-powered products and financial platforms.  
 My interest in design, creativity, and art helps me bring a thoughtful and balanced approach to development.
+
+Computer Engineering student => Bachelor’s Degree
 
 ---
 
