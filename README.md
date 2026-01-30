@@ -3,7 +3,7 @@
 I'M RAHA MOHEBI
 
 **Front-End Developer | ReactJS | Next.js |**
-
+**Computer Engineering student => Bachelor’s Degree **
 ---
 
 📍 Tehran, Iran  
@@ -49,7 +49,7 @@ My interest in design, creativity, and art helps me bring a thoughtful and balan
 
 ---
 
-### FRONT-END DEVELOPER AT DARAMET.COM  
+### FRONT-END DEVELOPER AT [DARAMET.COM](https://daramet.com) 
 **June 2025 - Dec 2026**  
 - Built front-end for a large-scale financial platform using React, Tailwind CSS, and Material UI.  
 - Developed modules: ticketing system, fund withdrawal, bank account management, authentication forms.  
