@@ -26,7 +26,7 @@ My interest in design, creativity, and art helps me bring a thoughtful and balan
 - Working on **React and Next.js projects**  
 - Building scalable and responsive user interfaces  
 - Learning to improve my knowledge
-- In progress to learn and become a DevOps engineer :)
+- In progress learning to become a DevOps engineer :)
 ---
 
 ## 💻 Experience
