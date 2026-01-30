@@ -1,6 +1,7 @@
 # Hi there 👋
 
-**RAHA MOHEBI**  
+I'M RAHA MOHDEBI
+
 **Front-End Developer | ReactJS | Next.js |**
 
 ---
@@ -63,13 +64,6 @@ My interest in design, creativity, and art helps me bring a thoughtful and balan
 **Jan 2025 - April 2025**  
 - Received training in React, JavaScript, and Front-End development.  
 - Completed mentor-assigned projects with feedback.  
-
----
-
-### WORDPRESS WEB DESIGNER AT DONYAYE NO INTERNATIONAL HOLDING  
-**Mar 2024 – Aug 2024**  
-- Designed WordPress subdomains, added products, and wrote website articles.  
-- Worked as graphic designer creating product visuals.  
 
 ---
 
