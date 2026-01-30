@@ -35,7 +35,7 @@ My interest in design, creativity, and art helps me bring a thoughtful and balan
 
 ## 💻 Experience
 
-### FRONT-END DEVELOPER AT PAFCO  
+### FRONT-END DEVELOPER AT [PAFCO ](https://pafcoerp.com) 
 **July 2025 - jan 2026**  
 - Designed and implemented UI for an AI-powered chatbot integrated with LMS and Moodle using React.js.  
 - Optimized corporate website for performance, accessibility, and responsiveness.  
@@ -63,7 +63,7 @@ My interest in design, creativity, and art helps me bring a thoughtful and balan
 
 ---
 
-### FRONT-END INTERN AT MEGA  
+### FRONT-END INTERN AT [MEGA](https://megabids.ir) 
 **Jan 2025 - April 2025**  
 - Received training in React, JavaScript, and Front-End development.  
 - Completed mentor-assigned projects with feedback.  
