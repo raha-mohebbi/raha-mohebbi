@@ -1,8 +1,7 @@
 # Hi there 👋
 
-I'M RAHA MOHEBI
 
-**Front-End Developer | ReactJS | Next.js |**
+**I'm a Front-End Developer | ReactJS | Next.js |**
 
 ---
 
