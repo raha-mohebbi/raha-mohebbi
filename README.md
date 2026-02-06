@@ -1,7 +1,14 @@
 # Hi there 👋
 
 
-**I'm a Front-End Developer | ReactJS | Next.js |**
+## 🚀 About Me
+
+Front-End Developer with hands-on experience in React.js and Next.js.  
+Skilled in building scalable, responsive, and user-focused interfaces.  
+Experienced in working with AI-powered products and financial platforms.  
+My interest in design, creativity, and art helps me bring a thoughtful and balanced approach to development.
+
+Computer Engineering student => Bachelor’s Degree
 
 ---
 
@@ -12,17 +19,6 @@
 📱 +98 9389091904  
 
 🌐 [GitHub](https://github.com/raha-mohebbi) | [GitLab](https://gitlab.com/rahamhb) | [LinkedIn](https://www.linkedin.com/in/raha-mohebi-30b531243)  
-
----
-
-## 🚀 About Me
-
-Front-End Developer with hands-on experience in React.js and Next.js.  
-Skilled in building scalable, responsive, and user-focused interfaces.  
-Experienced in working with AI-powered products and financial platforms.  
-My interest in design, creativity, and art helps me bring a thoughtful and balanced approach to development.
-
-Computer Engineering student => Bachelor’s Degree
 
 ---
 
