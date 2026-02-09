@@ -32,22 +32,8 @@ Computer Engineering student => Bachelor’s Degree
 
 ## 💻 Experience
 
-### FRONT-END DEVELOPER AT [PAFCO ](https://pafcoerp.com) 
-**July 2025 - jan 2026**  
-- Designed and implemented UI for an AI-powered chatbot integrated with LMS and Moodle using React.js.  
-- Optimized corporate website for performance, accessibility, and responsiveness.  
-- Configured and managed Docker-based environments for development and deployment.  
-- Developed interactive AI-powered speaking avatar (React + Python) with real-time responses and lip-sync.  
-
-**Key Contributions:**  
-- Built reusable React components for chatbot and avatar UI.  
-- Collaborated with AI engineers and back-end developers.  
-- Managed client-server communication and API integration.  
-
----
-
 ### FRONT-END DEVELOPER AT [DARAMET.COM](https://daramet.com) 
-**June 2025 - Dec 2026**  
+**June 2025 - present**  
 - Built front-end for a large-scale financial platform using React, Tailwind CSS, and Material UI.  
 - Developed modules: ticketing system, fund withdrawal, bank account management, authentication forms.  
 - Implemented real-time dashboards with data visualization (Recharts).  
@@ -57,6 +43,20 @@ Computer Engineering student => Bachelor’s Degree
 - Developed reusable React components and optimized front-end performance.  
 - Implemented secure authentication and form validation.  
 - Supported ticketing system with file uploads and dark mode.  
+
+---
+
+### FRONT-END DEVELOPER AT [PAFCO ](https://pafcoerp.com) 
+**July 2025 - Feb 2026**  
+- Designed and implemented UI for an AI-powered chatbot integrated with LMS and Moodle using React.js.  
+- Optimized corporate website for performance, accessibility, and responsiveness.  
+- Configured and managed Docker-based environments for development and deployment.  
+- Developed interactive AI-powered speaking avatar (React + Python) with real-time responses and lip-sync.  
+
+**Key Contributions:**  
+- Built reusable React components for chatbot and avatar UI.  
+- Collaborated with AI engineers and back-end developers.  
+- Managed client-server communication and API integration.  
 
 ---
 
