@@ -18,16 +18,8 @@ Computer Engineering student => Bachelor’s Degree
 
 📱 +98 9389091904  
 
-🌐 [GitHub](https://github.com/raha-mohebbi) | [GitLab](https://gitlab.com/rahamhb) | [LinkedIn](https://www.linkedin.com/in/raha-mohebi-30b531243)  
+[GitLab](https://gitlab.com/rahamhb) | [LinkedIn](https://www.linkedin.com/in/raha-mohebi-30b531243)  
 
----
-
-## 💬 What I’m Doing Now
-
-- Working on **React and Next.js projects**  
-- Building scalable and responsive user interfaces  
-- Learning to improve my knowledge
-- In progress learning to become a DevOps engineer :)
 ---
 
 ## 💻 Experience
