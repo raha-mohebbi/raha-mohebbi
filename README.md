@@ -12,16 +12,6 @@ Bachelor’s Degree in Computer Engineering
 
 ---
 
-📍 Tehran, Iran  
-
-📧 [raha.mohebbi.03@gmail.com](mailto:raha.mohebbi.03@gmail.com) 
-
-📱 +98 9389091904  
-
-[GitLab](https://gitlab.com/rahamhb) | [LinkedIn](https://www.linkedin.com/in/raha-mohebi-30b531243)  
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=rahamhb&style=flat-square&color=blue)
 
 
