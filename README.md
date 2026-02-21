@@ -44,7 +44,6 @@
 ### State Management & APIs
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/docs/context.html)
-[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
 [![REST API](https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge)](https://restfulapi.net/)
 [![Formik](https://img.shields.io/badge/Formik-4B3EAC?style=for-the-badge)](https://formik.org/)
 
@@ -52,7 +51,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-2088FF?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
+
 
 ### Other Tools
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
