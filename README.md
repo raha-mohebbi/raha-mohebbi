@@ -3,12 +3,12 @@
 
 ## 🚀 About Me
 
-Front-End Developer with hands-on experience in React.js and Next.js.  
-Skilled in building scalable, responsive, and user-focused interfaces.  
-Experienced in working with AI-powered products and financial platforms.  
-My interest in design, creativity, and art helps me bring a thoughtful and balanced approach to development.
+🎯 Front-End Developer specializing in **React.js** and **Next.js**  
+💡 Passionate about scalable, responsive & user-focused interfaces  
+🤖 Experienced in AI-powered products & financial platforms  
+🎨 Design-oriented mindset with attention to detail  
 
-Bachelor’s Degree in Computer Engineering 
+🎓 Bachelor's Degree in Computer Engineering 
 
 ---
 
@@ -17,34 +17,12 @@ Bachelor’s Degree in Computer Engineering
 
 ## 💻 Experience
 
-### FRONT-END DEVELOPER AT [DARAMET.COM](https://daramet.com) 
-**June 2025 - present**  
-- Built front-end for a large-scale financial platform using React, Tailwind CSS, and Material UI.  
-- Developed modules: ticketing system, fund withdrawal, bank account management, authentication forms.  
-- Implemented real-time dashboards with data visualization (Recharts).  
-- Worked with UI/UX designers for scalable and maintainable interfaces.  
-- Developed reusable React components and optimized front-end performance.  
-- Implemented secure authentication and form validation.  
-- Supported ticketing system with file uploads and dark mode.  
+| Company | Role | Duration | Key Contributions |
+|----------|------|----------|------------------|
+| **(https://daramet.com)** | Front-End Developer | Jun 2025 – Present | Built financial platform UI, ticketing system, dashboards (Recharts), secure authentication, reusable components |
+| **(https://pafcoerp.com)** | Front-End Developer | Jul 2025 – Feb 2026 | AI chatbot UI (LMS + Moodle), speaking avatar (React + Python), Docker setup, API integration |
+| **(https://megabids.ir)** | Front-End Intern | Jan 2025 – Apr 2025 | React & JS training, mentor-guided projects |
 
----
-
-### FRONT-END DEVELOPER AT [PAFCO ](https://pafcoerp.com) 
-**July 2025 - Feb 2026**  
-- Designed and implemented UI for an AI-powered chatbot integrated with LMS and Moodle using React.js.  
-- Optimized corporate website for performance, accessibility, and responsiveness.  
-- Configured and managed Docker-based environments for development and deployment.  
-- Developed interactive AI-powered speaking avatar (React + Python) with real-time responses and lip-sync.  
-- Built reusable React components for chatbot and avatar UI.  
-- Collaborated with AI engineers and back-end developers.  
-- Managed client-server communication and API integration.  
-
----
-
-### FRONT-END INTERN AT [MEGA](https://megabids.ir) 
-**Jan 2025 - April 2025**  
-- Received training in React, JavaScript, and Front-End development.  
-- Completed mentor-assigned projects with feedback.  
 
 ---
 
@@ -88,3 +66,4 @@ Bachelor’s Degree in Computer Engineering
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+ 
