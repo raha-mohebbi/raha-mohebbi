@@ -6,7 +6,8 @@
 🎯 Front-End Developer specializing in **React.js** and **Next.js**  
 💡 Passionate about scalable, responsive & user-focused interfaces  
 🤖 Experienced in AI-powered products & financial platforms  
-🎨 Design-oriented mindset with attention to detail 
+🎨 Design-oriented mindset with attention to detail
+
 👩‍💻 Trying to be a DevOps engineer
 
 🎓 Bachelor's Degree in Computer Engineering 
