@@ -48,12 +48,6 @@
 [![REST API](https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge)](https://restfulapi.net/)
 [![Formik](https://img.shields.io/badge/Formik-4B3EAC?style=for-the-badge)](https://formik.org/)
 
-### Version Control & Deployment
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
-
-
 ### Other Tools
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
