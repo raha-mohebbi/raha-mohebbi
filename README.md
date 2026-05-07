@@ -48,7 +48,7 @@
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/docs/context.html)
 [![REST API](https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge)](https://restfulapi.net/)
-[![Formik](https://img.shields.io/badge/Formik-4B3EAC?style=for-the-badge)](https://formik.org/)
+
 
 ### Other Tools
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
