@@ -21,7 +21,7 @@
 
 | Company | Role | Duration | Key Contributions |
 |----------|------|----------|------------------|
-| [Daramet](https://daramet.com) | Front-End Developer | Jun 2025 – Present | Financial dashboards (Recharts), ticketing system, secure authentication, reusable architecture, API integrations |
+| [Daramet](https://daramet.com) | Front-End Developer | Jun 2025 – Jul 2026 | Financial dashboards (Recharts), ticketing system, secure authentication, reusable architecture, API integrations |
 | [PAFCO ERP](https://pafcoerp.com) | Front-End Developer | Jul 2025 – Feb 2026 | AI chatbot UI (LMS + Moodle), speaking avatar (React + Python), Dockerized setup, backend API integration |
 | [MegaBids](https://megabids.ir) | Front-End Intern | Jan 2025 – Apr 2025 | React & JavaScript projects under mentor supervision |
 
