@@ -23,7 +23,7 @@
 |----------|------|----------|------------------|
 | [Daramet](https://daramet.com) | Front-End Developer | Jun 2025 – Jul 2026 | Developed critical user-facing modules including authentication flows, ticketing system, fund withdrawal, bank account management, Financial dashboards (Recharts), reusable architecturea and API integrations |
 | [PAFCO ERP](https://pafcoerp.com) | Front-End Developer | Jul 2025 – Feb 2026 | AI chatbot UI (LMS + Moodle), speaking avatar (React + Python), Dockerized setup, backend API integration |
-| [MegaBids](https://megabids.ir) | Front-End Developer | Jan 2025 – Apr 2025 | Contributed to a car marketplace project (Mega Bazaar Reghabati Kharid va Foroush Khodro) with implementation of core modules such as authentication, listings, and user interaction pages |
+| [MegaBids](https://megabids.ir) | Front-End Developer | Jan 2025 – Apr 2025 | Contributed to a car marketplace project with implementation of core modules such as authentication, listings, and user interaction pages |
 
 ---
 
