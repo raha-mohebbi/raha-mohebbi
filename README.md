@@ -7,6 +7,7 @@
 💡 Passionate about scalable, responsive & user-focused interfaces  
 🤖 Experienced in AI-powered products & financial platforms  
 🎨 Design-oriented mindset with attention to detail
+
 🎓 Bachelor's Degree in Computer Engineering 
 
 ---
