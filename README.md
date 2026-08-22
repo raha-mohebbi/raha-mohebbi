@@ -89,12 +89,6 @@ A responsive cryptocurrency tracking interface with API-driven data and data vis
 
 ---
 
-## 📊 GitHub Stats
 
-![Raha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raha-mohebbi\&show_icons=true\&hide_border=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raha-mohebbi\&layout=compact\&hide_border=true)
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rahamhb\&style=flat-square\&color=blue)
