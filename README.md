@@ -68,13 +68,6 @@ I enjoy turning complex requirements into **clean, reusable, and maintainable in
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)](https://www.php.net/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)](https://isocpp.org/)
 
----
-
-### 📊 Cryptocurrency Dashboard
-
-A responsive cryptocurrency tracking interface with API-driven data and data visualization.
-
-**Focus:** JavaScript · API Integration · Data Visualization · Responsive UI
 
 ---
 
