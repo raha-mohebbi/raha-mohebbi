@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Raha Mohebbi
+# Hi there 👋 I'm Raha Mohebi
 
 ### Front-End Developer | React.js · Next.js · JavaScript · TypeScript
 
