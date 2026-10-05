@@ -6,9 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=raha-mohebbi&style=for-the-badge&color=16A34A&label=PROFILE+VIEWS" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=16A34A&center=true&vCenter=true&width=700&lines=Front-End+Developer;React.js+%7C+Next.js+%7C+JavaScript+%7C+TypeScript;Building+modern+web+applications;Growing+towards+Full-Stack+Development+%F0%9F%9A%80" />
-</p>
 
 ---
 
@@ -27,8 +24,6 @@ Experienced with:
 - 🏢 ERP / LMS Platforms
 
 🎓 **B.Sc. Computer Engineering**
-
-Currently expanding my skills toward **Full-Stack Development**
 
 ---
 
