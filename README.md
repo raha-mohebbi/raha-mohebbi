@@ -17,11 +17,14 @@ Experienced with:
 
 - ⚛️ React.js & Next.js
 - 🟨 JavaScript & TypeScript
-- 🎨 Responsive UI & Design Systems
-- 🔌 REST API Integration
-- 📊 Dashboard & Data-driven Applications
+- 💰 Financial Platforms
 - 🤖 AI-powered Interfaces
 - 🏢 ERP / LMS Platforms
+- 📊 Dashboard & Data-driven Applications
+- 🎨 Responsive UI & Design Systems
+- 🔌 REST API Integration
+
+
 
 🎓 **B.Sc. Computer Engineering**
 
@@ -87,8 +90,8 @@ Experienced with:
 
 ## 💼 Experience
 
-| Company | Role | Highlights |
-|---|---|---|
-| 💰 **Daramet** | Front-End Developer | Financial dashboards, authentication, payments-related flows, API integration, reusable React components |
-| 🤖 **PAFCO ERP** | Front-End Developer | AI chatbot interfaces, LMS/Moodle integration, React + Python features |
-| 🚗 **MegaBids** | Front-End Developer | Marketplace features, authentication, responsive UI |
+| Company | Role | Duration | Key Contributions |
+|---|---|---|---|
+|  **[Daramet](https://daramet.com)** | Front-End Developer | Jun 2025 – Jul 2026 | Developed authentication flows, ticketing systems, fund withdrawal, bank account management, and financial dashboards using React and Recharts. Built reusable components and integrated REST APIs. |
+|  **[PAFCO ERP](https://pafcoerp.com)** | Front-End Developer | Jul 2025 – Feb 2026 | Developed AI chatbot interfaces for LMS/Moodle, integrated a speaking avatar using React and Python, and worked with backend APIs and Dockerized environments. |
+|  **[MegaBids](https://megabids.ir)** | Front-End Developer | Jan 2025 – Apr 2025 | Contributed to a car marketplace platform, implementing authentication, listings, and user interaction features. |
