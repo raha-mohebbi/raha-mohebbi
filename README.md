@@ -3,34 +3,12 @@
 ### 💻 Front-End Developer → Full-Stack Developer in Progress 🚀
 
 <p align="center">
-  <a href="https://rahamohebi.42web.io/">
-    <img src="https://img.shields.io/badge/🌐%20Website-rahamohebi.42web.io-16A34A?style=for-the-badge" />
-  </a>
-
-  <a href="mailto:raha.mohebbi.03@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-raha.mohebbi.03%40gmail.com-16A34A?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/raha-mohebi-11a599421">
-    <img src="https://img.shields.io/badge/LinkedIn-Raha%20Mohebi-16A34A?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://gitlab.com/rahamhb">
-    <img src="https://img.shields.io/badge/GitLab-rahamhb-16A34A?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/raha-mohebbi">
-    <img src="https://img.shields.io/badge/GitHub-raha--mohebbi-16A34A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
   <img src="https://komarev.com/ghpvc/?username=raha-mohebbi&style=for-the-badge&color=16A34A&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=16A34A&center=true&vCenter=true&width=700&lines=Front-End+Developer;React.js+%7C+Next.js+%7C+JavaScript+%7C+TypeScript;Building+modern+web+applications;Growing+towards+Full-Stack+Development+%F0%9F%9A%80" />
 </p>
-
----
 
 ---
 
