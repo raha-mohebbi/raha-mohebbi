@@ -105,7 +105,7 @@ Experienced with:
 
 ## 💼 Experience
 
-| Company | Role | Duration | Key Contributions |
+| Company | Role | Key Contributions 
 |---|---|---|---|
 |  **[Daramet](https://daramet.com)** | Front-End Developer  | Developed authentication flows, ticketing systems, fund withdrawal, bank account management, and financial dashboards using React and Recharts. Built reusable components and integrated REST APIs. |
 |  **[PAFCO ERP](https://pafcoerp.com)** | Front-End Developer | Developed AI chatbot interfaces for LMS/Moodle, integrated a speaking avatar using React and Python, and worked with backend APIs and Dockerized environments. |
