@@ -107,6 +107,6 @@ Experienced with:
 
 | Company | Role | Duration | Key Contributions |
 |---|---|---|---|
-|  **[Daramet](https://daramet.com)** | Front-End Developer | Jun 2025 – Jul 2026 | Developed authentication flows, ticketing systems, fund withdrawal, bank account management, and financial dashboards using React and Recharts. Built reusable components and integrated REST APIs. |
-|  **[PAFCO ERP](https://pafcoerp.com)** | Front-End Developer | Jul 2025 – Feb 2026 | Developed AI chatbot interfaces for LMS/Moodle, integrated a speaking avatar using React and Python, and worked with backend APIs and Dockerized environments. |
-|  **[MegaBids](https://megabids.ir)** | Front-End Developer | Jan 2025 – Apr 2025 | Contributed to a car marketplace platform, implementing authentication, listings, and user interaction features. |
+|  **[Daramet](https://daramet.com)** | Front-End Developer  | Developed authentication flows, ticketing systems, fund withdrawal, bank account management, and financial dashboards using React and Recharts. Built reusable components and integrated REST APIs. |
+|  **[PAFCO ERP](https://pafcoerp.com)** | Front-End Developer | Developed AI chatbot interfaces for LMS/Moodle, integrated a speaking avatar using React and Python, and worked with backend APIs and Dockerized environments. |
+|  **[MegaBids](https://megabids.ir)** | Front-End Developer | Contributed to a car marketplace platform, implementing authentication, listings, and user interaction features. |
