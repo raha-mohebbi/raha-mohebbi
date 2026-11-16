@@ -6,25 +6,25 @@
   <img src="https://komarev.com/ghpvc/?username=raha-mohebbi&style=for-the-badge&color=16A34A&label=PROFILE+VIEWS" />
 </p>
 
-
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **Front-End Developer** specializing in building modern, scalable, and user-focused web applications.
+I'm a **Front-End Developer expanding into Full-Stack Development**, specializing in building modern, scalable, and user-focused web applications.
 
 Experienced with:
 
 - ⚛️ React.js & Next.js
 - 🟨 JavaScript & TypeScript
+- 🟢 Node.js & Express.js
+- 🗄️ PostgreSQL & Redis
+- 🔐 JWT Authentication & Authorization
 - 💰 Financial Platforms
 - 🤖 AI-powered Interfaces
 - 🏢 ERP / LMS Platforms
 - 📊 Dashboard & Data-driven Applications
 - 🎨 Responsive UI & Design Systems
-- 🔌 REST API Integration
-
-
+- 🔌 REST API Development & Integration
 
 🎓 **B.Sc. Computer Engineering**
 
@@ -77,8 +77,17 @@ Experienced with:
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
+
+### 🗄️ Databases & Caching
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ---
@@ -101,12 +110,13 @@ Experienced with:
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
+
 ---
 
 ## 💼 Experience
 
-| Company | Role | Key Contributions| 
+| Company | Role | Key Contributions |
 |---|---|---|
-|  **[Daramet](https://daramet.com)** | Front-End Developer  | Developed authentication flows, ticketing systems, fund withdrawal, bank account management, and financial dashboards using React and Recharts. Built reusable components and integrated REST APIs. |
-|  **[PAFCO ERP](https://pafcoerp.com)** | Front-End Developer | Developed AI chatbot interfaces for LMS/Moodle, integrated a speaking avatar using React and Python, and worked with backend APIs and Dockerized environments. |
-|  **[MegaBids](https://megabids.ir)** | Front-End Developer | Contributed to a car marketplace platform, implementing authentication, listings, and user interaction features. |
+| **[Daramet](https://daramet.com)** | Front-End Developer | Developed authentication flows, ticketing systems, fund withdrawal, bank account management, and financial dashboards using React and Recharts. Built reusable components and integrated REST APIs. |
+| **[PAFCO ERP](https://pafcoerp.com)** | Front-End Developer | Developed AI chatbot interfaces for LMS/Moodle, integrated a speaking avatar using React and Python, and worked with backend APIs and Dockerized environments. |
+| **[MegaBids](https://megabids.ir)** | Front-End Developer | Contributed to a car marketplace platform, implementing authentication, listings, and user interaction features. |
