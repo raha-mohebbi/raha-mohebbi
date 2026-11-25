@@ -9,9 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-Front-End Developer expanding into Full-Stack Development, building **modern, scalable, user-focused web applications. Experience with:
-
-💰 Financial Platforms · 🤖 AI-powered Interfaces · 🏢 ERP / LMS Platforms · 📊 Dashboards & Data-driven Apps · 🎨 Responsive UI & Design Systems**.
+Front-End Developer expanding into Full-Stack Development, building **modern, scalable, user-focused web applications. Experience with: 💰 Financial Platforms · 🤖 AI-powered Interfaces · 🏢 ERP / LMS Platforms · 📊 Dashboards & Data-driven Apps · 🎨 Responsive UI & Design Systems.
 
 🎓 B.Sc. in Computer Engineering
 
