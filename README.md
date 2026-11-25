@@ -14,17 +14,11 @@ I'm a **Front-End Developer expanding into Full-Stack Development**, specializin
 
 Experienced with:
 
-- ⚛️ React.js & Next.js
-- 🟨 JavaScript & TypeScript
-- 🟢 Node.js & Express.js
-- 🗄️ PostgreSQL & Redis
-- 🔐 JWT Authentication & Authorization
 - 💰 Financial Platforms
 - 🤖 AI-powered Interfaces
 - 🏢 ERP / LMS Platforms
 - 📊 Dashboard & Data-driven Applications
 - 🎨 Responsive UI & Design Systems
-- 🔌 REST API Development & Integration
 
 🎓 **B.Sc. Computer Engineering**
 
